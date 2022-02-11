@@ -5,7 +5,7 @@
 #### StackLimit is a community based platform where users can post questions and answer to other's questions as well. Supporting image can also be uploaded with questions & answers. Also, every question has it's monthly and total views count attached.
 
 ## Live Demo
-#### This project is deployed on Heroku which you can view at [StackLimit Website](https://stacklimit-community-qna-platform.onrender.com/) and view [ppt here](https://www.canva.com/design/DAFF49-0bHk/aEyEdeepZc3-sbK5RlnjVw/view?utm_content=DAFF49-0bHk&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+#### This project is deployed on Heroku which you can view at [StackLimit Website](https://stacklimit-community-qna-platform.onrender.com/).
 
 ## 🧩 Main Features
 #### <ul><li>Hot & New Questions Category</li><li>Interactive discussion with Upvoting answers</li><li>Questions Total & Monthly views count</li><li>Image Upload with Questions and Answers</li></ul>
@@ -54,22 +54,19 @@ You need to add following two varaibles in your .env file:
 <img src="assets/QnA_2.png">
 <br />
 
-## Profile Page
-<img src="assets/Profile.png">
-<br />
-
 ## 404 Error Page
 <img src="assets/NotFound.png">
 <br />
 <br />
 
 # 🐛 Bug Reporting
-#### Feel free to [open an issue](https://github.com/Kunalpal215/stacklimit-community-QnA-platform/issues) on GitHub if you find any bug.
+#### Feel free to [open an issue](https://github.com/Jashwanth537/StackLimit/issues) on GitHub if you find any bug.
 
 <br />
 
 # ⭐ Feature Suggestion
-#### Feel free to [open an issue](https://github.com/Kunalpal215/stacklimit-community-QnA-platform/issues) on GitHub if you have feature idea to be added 🙌.
+#### Feel free to [open an issue](https://github.com/Jashwanth537/StackLimit/issues) 
+on GitHub if you have feature idea to be added 🙌.
 
 ```
 Thanks for visiting my repository 😊!! Please give a star ⭐ if you liked my project.
